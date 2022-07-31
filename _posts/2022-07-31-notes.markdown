@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Notes"
+date:   2022-07-31 15:50:37 -0400
+categories: virtualization
+---
+
+<h1>Notes</h1>
+
+Set up github page with Jekyll:
+<a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll">https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll</a>
